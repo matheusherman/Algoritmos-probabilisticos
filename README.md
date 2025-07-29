@@ -20,14 +20,17 @@ The script also visualizes the generated data through a histogram overlaid with 
 
 Install the required libraries:
 
-```bash
+```
 pip install numpy matplotlib
+```
 
 ▶️ How to Run
 
 Clone the repository and run the script:
 
+```
 python main.py
+```
 
 A graph will be displayed with the histogram and the Gaussian function.
 📊 Expected Output
