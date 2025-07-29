@@ -24,7 +24,7 @@ Install the required libraries:
 pip install numpy matplotlib
 ```
 
-▶️ How to Run
+## ▶️ How to Run
 
 Clone the repository and run the script:
 
@@ -33,20 +33,20 @@ python main.py
 ```
 
 A graph will be displayed with the histogram and the Gaussian function.
-📊 Expected Output
+
+
+## 📊 Expected Output
 
 The output consists of:
 
-    A histogram of the generated data (in green)
+- A histogram of the generated data (in green)
 
-    A curve of the theoretical Gaussian function (in black)
+- A curve of the theoretical Gaussian function (in black)
 
-This allows a visual comparison of the sample quality.
-🧠 Notes
 
-    The SPUTINIK function is inspired by algorithms such as Beasley-Springer-Moro for approximating the inverse of the standard normal distribution.
+## 🧠 Notes
 
-    It can be useful in simulations, data visualization, and teaching statistics or probability concepts.
+The SPUTINIK function is inspired by algorithms such as Beasley-Springer-Moro for approximating the inverse of the standard normal distribution.
 
-Author: Matheus Herman
-License: MIT
+It can be useful in simulations, data visualization, and teaching statistics or probability concepts.
+
